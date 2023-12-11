@@ -1403,7 +1403,11 @@ Think of your life as a rainbow arcing across the horizon of this world. You app
 乔布斯说：Things get more refined as you make mistakes. 他说他自己就犯过很多错误。
 因为他这么想，所以他没有放弃，而是越做越好，看看现在苹果的成功，如果当时放弃了，后面这些就都不会有了。这真是一种强大而正确的思维方式。  
 
+
 失败是最好的事，可以查漏补缺，可以针对性加强。可以节约大量的时间。     
+马斯克发火箭。    
+进攻和防守。   
+失败是很正常的，一个环节出问题就会出问题。      
 
 
 
