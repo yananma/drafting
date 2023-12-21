@@ -247,6 +247,411 @@ And you never meet the people. You never shake their hands. You never hear their
 我的起点是非常低的。复利使得我可以制定很高的长远目标，而且有自信可以实现。
 
 
+观念认识指导行动
+
+我最近读了一本关于乔布斯的书，书名叫做《Make Something Wonderful》，是乔布斯档案馆整理出版的，里面有很多之前从未公开的乔布斯的演讲和邮件，这应该是我读过的最好的关于乔布斯的书了。
+
+乔布斯毫无疑问是最优秀的人物之一。他有许多非常优秀的理念，这些理念形成了他的工作和管理的方法。
+
+
+1、比如苹果产品的易用性。
+
+乔布斯有几次谈到关于易用性的问题。我看到的最早是在 80 年代。
+
+电报和电话的对比；图形化界面和命令行界面的对比。
+
+
+It’s sort of like in 1844, the telegraph was invented, and it was an amazing breakthrough in communications. And you actually could send messages from New York to San Francisco in an afternoon. And some people talked about putting a telegraph on every desk in America to improve productivity.
+这有点像在 1844 年，电报被发明，这是通信方面的一个惊人的突破。你实际上可以在下午从纽约发送消息到旧金山。有些人谈到将电报放在美国的每张桌子上，以提高生产力。
+But it wouldn’t have worked. It wouldn’t have worked. And the reason it wouldn’t have worked was because you would have had to learn this whole sequence of strange incantations—Morse code in this case, dots and dashes in this case—to use the telegraph. And it took about forty hours to learn how to use Morse code. And a majority of people would never have learned how to use Morse code.
+但它不会起作用。它不会起作用，原因在于你必须学习整个奇怪的咒语序列——在这种情况下是摩尔斯电码，点划号——才能使用电报。学习如何使用摩尔斯电码需要大约四十个小时，而大多数人永远不会学习如何使用摩尔斯电码。
+So fortunately, in the 1870s, Alexander Graham Bell filed the patents for the telephone—another radical breakthrough in communications that performed basically the same function, but people already knew how to use it. The neatest thing about it was that, in addition to allowing you to communicate with just words, it allowed you to sing. It allowed you to intone your words with meaning beyond the simple linguistics.
+所以，幸运的是，在19世纪70年代，亚历山大·格雷厄姆·贝尔申请了电话的专利——这是通信领域的另一个重大突破，它基本上具有相同的功能，但人们已经知道如何使用它。最棒的是，除了让你用文字交流，它还让你唱歌。它允许你用超出简单语言学的意义来发音。
+We’re in the same exact parallel situation today. Some people are saying we need to put an IBM PC on every desk in America to improve productivity. But it won’t work. The special incantations you have to learn this time are slash-qz’s and things like that. Most people are not going to learn slash-qz’s any more than they’re going to learn Morse code.
+我们现在处于同样的平行状态。有些人说，我们需要把 IBM 电脑放在美国的每张桌子上，以提高生产力。但这不会起作用。这次你需要学习的特殊咒语是 slash-qz 和类似的东西。大多数人不会学习 slash-qz，就像他们不会学习莫尔斯电码一样。
+And that’s what Macintosh is all about. It’s the first “telephone” of our industry. But the neatest thing about it to me is, the same as the telephone to the telegraph, Macintosh lets you sing. It lets you use special fonts. It lets you make drawings and pictures or incorporate other people’s drawings or pictures into your documents.
+这就是麦金塔的全部。它是我们行业的第一个“电话”。但对我来说，最棒的是，就像电话对电报一样，麦金塔让你唱歌。它让你使用特殊字体。它让你制作绘图和图片，或者将别人的绘图或图片合并到文档中。
+
+
+
+I remember the first time I saw a piece of paper come out of the laser printer prototype we had. It was running this very sophisticated printer from Canon, this very sophisticated controller we had designed and Postscript software from Adobe. An amazing amount of technology. The piece of paper came out and I looked at it and it was so beautiful, I thought, "We can sell this. Because we don't need to tell anybody anything about what's in this box. All we have to do is hold this piece of paper up and go, Do you want this? If you do, buy this box." That's our whole marketing strategy.
+我记得我第一次看到一张纸从我们的激光打印机原型中出来。它运行着这台来自佳能的非常复杂的打印机，这台非常复杂的控制器是我们设计的，还有来自Adobe的Postscript软件。这是一项惊人的技术。这张纸出来了，我看着它，它如此美丽，我想，"我们可以卖这个。因为我们不需要告诉任何人这个盒子里有什么。我们所要做的就是拿着这张纸，然后说，"你想要这个吗？如果你想要，就买这个盒子吧。"这就是我们的整个营销策略。
+Well, that's how I've always looked at this stuff. What Apple stands for is this: Technology has exploded. It's getting more complicated by the day. And there are very few ways for us mere mortals to approach all this technology. People don't have a week to research things and figure out how they work. Apple has always been, and I hope it will always be, one of the premiere bridges between mere mortals and this very difficult technology. We may have the fastest PCs, which we do, we may have the most sophisticated machines, which we do. But the most important thing is that Apple is the bridge.
+嗯，我总是这样看待这些东西。苹果所代表的是：技术已经爆炸。它变得越来越复杂。对于我们这些凡人来说，很少有方法可以接近所有这些技术。人们没有一周的时间来研究事物并弄清楚它们是如何工作的。苹果一直是，我希望它永远是，凡人与这种非常困难的技术之间的首要桥梁之一。我们可能有最快的个人电脑，我们确实有，我们可能有最复杂的机器，我们确实有。但最重要的是，苹果是桥梁。
+When I first met Ed Catmull, he told me about all the awesome technology that they at the time were using to create digital imagery. Today we have the biggest computer farm I know of. We're using over 1500 of Sun's fastest processors to make each picture. And the software we've invented, which is all proprietary, is a monumental acheivement. The technologoy that goes into making a Pixar movie is staggering. And yet we sell a consumer product for $7. You pay your $7 and sit down in a movie theater and you don't need to know one iota about the technology that went into making that production order to enjoy that product.
+当我第一次见到艾德·卡特姆时，他告诉我他们当时正在使用的所有令人惊叹的技术来创建数字图像。今天，我们拥有我所知道的最大的计算机农场。我们使用超过1500个Sun最快的处理器来制作每张图片。我们发明的所有专有软件是一个巨大的成就。制作皮克斯电影的技术令人惊叹。然而，我们以7美元的价格销售一个消费产品。你支付7美元，坐在电影院里，你不需要知道一点关于制作这个订单的技术，就可以享受这个产品。
+Apple and Pixar are the same in that regard--they both deliver a product that has immense technology unerpinnings and yet they both strive to say you don't need to know anything about this techology in order to use it. In the case of Apple, we're going to make it easy as possible to use this.
+苹果和皮克斯在这方面是相同的——它们都提供了一种具有巨大技术背景的产品，但它们都努力说，你不需要知道任何关于这种技术的知识就可以使用它。就苹果而言，我们将使其尽可能容易使用。
+
+
+所以是触控而不是键盘，不用学，人天生就会。
+people already knew how to use it
+
+
+Apple is the world’s premier bridge builder between mere mortals and the exploding world of high technology. Apple enables mere mortals around the world to grasp by making it easy to learn and use
+苹果是世界上首屈一指的桥梁建设者，连接着芸芸众生和高科技爆炸的世界。苹果使世界各地的芸芸众生能够掌握，通过使其易于学习和使用
+Apple is the premier company in the world at making the exploding world of high technology easy to learn and use, thereby enabling mere mortals to enrich their lives using it.
+苹果公司是世界上最优秀的公司，使爆炸性的高科技世界易于学习和使用，从而使普通人能够利用它来丰富自己的生活。
+Demystified technology, it will have a much greater impact than any other thing we can do. The stores need to be thought of as a mecca for understanding technology and making all of the digits a part of your life. All things digital, digital music, digital photography, people who’ve migrated to broadband, people/families who want to build a home network
+去神秘化技术，它将产生比其他任何事情都更大的影响。商店需要被视为了解技术和使所有数字成为你生活的一部分的圣地。所有数字事物，数字音乐，数字摄影，迁移到宽带的人，想要建立家庭网络的人/家庭。
+
+
+
+
+2、创造力就是 connecting the dots。皮克斯大楼、苹果总部
+
+乔布斯非常推崇面对面的交谈。他说：“在我们这个网络时代，有一种想法认为，创意通过邮件和网络iChat聊天就可以被开发出来。这是个疯狂的想法。创意产生于自发的谈话和随机的讨论中。比如你偶遇某个人，你问最近在做些什么，然后你说‘哇’，很快你就会蹦出各种想法。”
+所以，乔布斯把皮克斯的大楼设计成了一个推崇“偶遇”和“计划外合作”的场所。他说：“如果一栋大楼没有这样的功能，你就会失去很多由于偶遇而产生的创意和奇想。所以我们设计这栋大楼的目的，是希望员工们走出办公室，多到中央中庭来走走，因为他们会遇到一些平时见不到的人。”大楼的前门、主楼梯和走廊都能通到中庭，那里有咖啡厅和信箱，几间能透过玻璃窗看到中庭的会议室，还有一座能容纳600人的剧场，以及两个小放映室。拉塞特回忆道：“史蒂夫的理论从第一天起就见效了。我接连遇见一些几个月都没碰见的人。我还从来没见过哪座大楼的设计能如此鼓励合作和激发创意。”
+
+Be a creative person. Creativity equals connecting previously unrelated experiences and insights that others don’t see.
+做一个有创造力的人。创造力等于连接以前不相关的经验和见解，别人看不到。
+
+You have to have them to connect them. Creative people feel guilty that they are simply relaying what they “see.” How do you get a more diverse set of experiences? Not by traveling the same path as everyone else …
+你必须拥有他们才能连接他们。有创意的人感到内疚，因为他们只是在传递他们“看到的”。你如何获得更多样化的体验？不是通过与其他人旅行相同的路径......
+
+
+
+3、不固执己见，从善如流，经常改变自己的观点
+
+Therefore, I have changed my position 180 degrees.
+因此，我改变了我的立场180度。
+
+
+“我不是很在意我个人是不是对的，我在乎的是把事情做成功。所以很多人会跟你说，无论我原来的想法多么顽固，只要能拿出可信的事实，在五分钟内我就会改变观点。我就是这样，我不怕犯错，而且我也经常承认错误，这没什么大不了的，我只在乎结果。”
+
+
+>> Please continue to challenge me. It’s the way we get to the right decisions, and I enjoy it too.
+请继续向我挑战。这是我们做出正确决定的方式，我也很享受。
+
+
+
+4、科技与人文相结合。
+一直以来，他都站在人性和科技的交叉点上。
+
+学习书法课，有了苹果公司在桌面出版业务上的地位
+
+喜欢音乐，有了 iPod
+
+喜欢艺术，10 年投入 6000 万美元，支持皮克斯发展
+
+The first was that, as you will be shortly, I was forced to go to humanities lectures—it seemed like every day. I studied Shakespeare with Professor Svitavsky. And at the time, I thought these were meaningless and even somewhat cruel endeavors to be put through. I can assure you that as the patina of time takes its toll, I thank God that I had these experiences here. It has helped me in everything I’ve ever done, although I wouldn’t have ever guessed it at the time.
+第一，就像你们很快就会做的那样，我被迫去听人文学科的讲座——似乎每天都有。我与斯维塔夫斯基教授学习莎士比亚。当时，我认为这些毫无意义，甚至有些残忍。我可以向你们保证，随着时间的推移，我感谢上帝我有这些经历。它帮助了我所做的一切，尽管我当时从未想过。
+
+I usually believe that if one group of people didn’t do something, within a certain number of years, the times would produce another group of people that would accomplish similar things. We happened to be at the right place, at exactly the right time, with the right group of people. We did some wonderful work. I’m extraordinarily proud of the work that the team at Apple did when I was there. I think that, personally, our major contribution was a little different than some people might think. I think our major contribution was in bringing a liberal arts point of view to the use of computers.
+史蒂夫·乔布斯：我通常认为，如果一群人没有做某事，那么在几年内，时代就会产生另一群人，他们会完成类似的事情。我们碰巧处于正确的地点，在正确的时间，拥有正确的人。我们做了一些了不起的工作。我对苹果团队在我在那里时所做的工作感到非常自豪。我认为，就我个人而言，我们的主要贡献与一些人可能认为的有所不同。我认为，我们的主要贡献在于将文科观点带到计算机的使用中。
+
+SJ: What I mean by that is that if you really look at the ease of use of the Macintosh, the driving motivation behind that was to bring—not only ease of use to people so that many, many more people could use computers for nontraditional things at that time—but it was to bring beautiful fonts and typography to people. It was to bring graphics to people, not for plotting laminar flow calculations, but so that they could see beautiful photographs, or pictures, or artwork, et cetera, to help them communicate what they were doing, potentially. Our goal was to bring a liberal arts perspective and a liberal arts audience to what had traditionally been a very geeky technol­ogy and a very geeky audience.
+史蒂夫·乔布斯：我的意思是，如果你真的看看Macintosh的易用性，驱动这一易用性的背后动力是，不仅要让人们使用计算机进行非传统的事情，而且要为人们带来美丽的字体和排版。它要为人们带来图形，不是为了绘制层流计算，而是为了让他们看到美丽的照片、图片或艺术品，等等，帮助他们交流他们正在做的事情。我们的目标是为传统上非常技术性的技术和非常技术性的观众带来文科观点和文科观众。
+
+>> My strength probably is that I’ve always viewed technology from a liberal arts perspective, from a human culture perspective. As such, I’ve always pushed for things that pulled technology in those directions by bringing insights from other fields. An example of that would be—with the Macintosh—desktop publishing: its proportionately spaced fonts, its ease of use. All of the desktop publishing stuff on the Mac comes from books: the typography, that rich feel that nobody in computers knew anything about. I think that my other strength is that I’m a pretty good judge of people and have the ability to bring people together around common vision.
+我的优点可能是我总是从人文科学的角度，从人类文化的角度来看待技术。因此，我总是通过从其他领域引入见解来推动技术向这些方向发展。其中的一个例子就是麦金塔桌面出版系统：它按比例间隔的字体，它的易用性。Mac上所有的桌面出版的东西都来自书籍：排版，那种丰富的感觉，电脑里没有人知道。我认为我的另一个优点是我看人很准，有能力把人们团结在共同的愿景周围。
+
+
+
+
+5、追随内心
+“What you follow with your heart will indeed come back to make your life much richer.”
+“你用心追随的东西一定会回来，让你的生活更加丰富。”
+
+>> “Much of what I stumbled into by following my curiosity and intuition turned out to be priceless later on.”
+“我跟随自己的好奇心和直觉所遇到的很多事情，后来都被证明是无价之宝。”
+
+
+
+
+
+6、管理方法
+As CEO of Apple and Pixar, he saw his job as “number one, re­­­cruit; number two, set an overall direction; and number three, inspire and cajole and persuade.”
+作为苹果和皮克斯的首席执行官，他认为自己的工作是“第一，重整旗鼓；第二，制定总体方向；第三，激励、诱导和说服。”
+
+
+I would say Apple was a corporate lifestyle, but it had a few very big differences to other corporate lifestyles that I’d seen. The first one was a real belief that there wasn’t a hierarchy of ideas that mapped onto the hierarchy of the organization. In other words, great ideas could come from anywhere and that we better sort of treat people in a much more egalitarian sense, in terms of where the ideas came from.
+我想说，苹果是一种公司文化，但它与其他公司文化有几个很大的不同。第一个是真正的信念，即没有一种思想等级制度映射到组织的等级制度。换句话说，伟大的想法可以来自任何地方，我们最好以一种更加平等的方式对待来自任何地方的人。
+
+
+And Apple was a very bottoms-up company when it came to a lot of its great ideas. And we hired truly great people and gave them the room to do great work. A lot of companies—I know it sounds crazy—but a lot of companies don’t do that. They hire people to tell them what to do. We hired people to tell us what to do. We figured we’re paying them all this money, their job is to figure out what to do and tell us. And that led to a very different corporate culture, and one that’s really much more collegial than hierarchical.
+在很多伟大的想法上，苹果是一个自下而上的公司。我们雇用了真正伟大的人，给他们空间去做伟大的工作。很多公司——我知道这听起来很疯狂——但很多公司不这样做。他们雇用员工来告诉他们该做什么。我们雇用员工来告诉我们该做什么。我们想，我们付给他们这么多钱，他们的工作就是想出该做什么并告诉我们。这导致了一种非常不同的企业文化，一种比等级制度更学院式的企业文化。
+
+
+
+
+7、专注
+His second tenure at Apple was a study in focus. Soon after he returned, he slashed the company’s product offerings from seventeen to four. This upset some fans and led to thousands of job losses, but he was unwavering in his belief that it was necessary to save the company. “You’ve got to choose what you put your love into really carefully,” he said.
+他在苹果的第二个任期是一项重点研究。回来后不久，他就把公司的产品供应从17件削减到4件。这让一些粉丝感到不安，导致数千人失业，但他坚定地相信，拯救公司是必要的。他说：“你必须仔细选择你所爱的东西。”
+
+
+>> A stream of Apple breakthroughs—including iMac, OS X, iPod, iTunes, iPhone, and iPad—reflected that focused love。
+苹果的一系列突破——包括iMac、OS X、iPod、iTunes、iPhone和iPad——都反映了这种专注的爱。
+
+
+>> Renewing Apple is a journey, and we have begun that journey during the past four weeks by taking some decisive first steps—a new Board of Directors, a new product strategy and product roadmap, a decision to really focus on two market segments (education and creative content), a new advertising agency, and a detente and working partnership with Microsoft. Last week we announced some of these steps at MacWorld, and so far our shareholders and the public seem to approve.
+更新苹果是一段旅程，在过去的四个星期里，我们开始了这一旅程，采取了一些决定性的第一步--一个新的董事会，一个新的产品战略和产品路线图，决定真正专注于两个细分市场（教育和创意内容），一个新的广告代理商，以及与微软的缓和和工作伙伴关系。上周，我们在MacWorld宣布了其中的一些措施，到目前为止，我们的股东和公众似乎都表示赞同。
+
+
+>> We started with the product line. We looked at the product road map, going out for a few years, and we said, “A lot of this doesn’t make sense, and it’s way too much stuff, and there’s not enough focus.” We actually got rid of 70 percent of the stuff on the product road map. I couldn’t even figure out the damn product line after a few weeks. I kept saying, “What is this model? How does this fit?”
+我们从产品线开始。我们看了产品路线图，走出去几年，我们说，“这里面的很多东西都没有意义，而且东西太多了，注意力也不够集中。”我们实际上把产品路线图上70%的东西处理掉了。几周后我连该死的生产线都搞不清楚。我一直在说，“这个模型是什么？这件合身吗？”
+
+>> I started talking to customers, and they couldn’t figure it out either.
+我开始和客户交流，他们也搞不清楚。
+
+>> You’re going to see the product line get much simpler, and you’re going to see the product line get much better. There’s some new stuff coming out that’s incredibly nice. In addition, we’ve been able to focus a lot more on the 30 percent of the gems and add some new stuff in that is going to take us in some whole new directions. So we are incredibly excited about the products. I think we’re really thinking differently about the kinds of products we have to build. The engineering team is incredibly excited. I mean, I came out of the meeting with people that had just gotten their projects canceled, and they were three feet off the ground with excitement ’cause they finally understood where in the heck we were going, and they were really excited about the strategy.
+你会看到产品线变得更简单，你会看到产品线变得更好。有一些新的东西出来了真是太好了。此外，我们已经能够更专注于30%的宝石，并添加一些新的东西，这将把我们带到一些全新的方向。所以我们对这些产品感到非常兴奋。我认为我们真的在用不同的方式思考我们必须制造的产品。工程团队非常兴奋。我的意思是，我和那些刚刚被取消项目的人开完会，他们兴奋得离地三尺高，因为他们终于明白了我们到底要去哪里，他们对这个战略非常兴奋。
+
+
+
+8、招聘很重要，生活在其他事物最好和普通相差百分之几，但是人才差几百倍。
+But I saw that Woz [Apple co-founder Steve Wozniak]—one guy—having meetings in his head could run circles around two hundred engineers at Hewlett-Packard. That’s what I saw. And I thought, “Wow.” And I didn’t really understand it at first.
+但我看到沃兹苹果公司联合创始人史蒂夫·沃兹尼亚克（Steve Wozniak）——一个在脑子里开会的人，可以在惠普公司（Hewlett-Packard）的200名工程师周围转来转去。这就是我看到的。我当时就想，哇而我一开始也不是很懂。
+
+
+The first time I tried to build that organization—that was the Mac team. And it really worked. I saw a team of fifty people do something that lit­erally hundreds, or thousands, of people at other companies couldn’t do. And so I’ve since then always tried to find really great people who love what they are doing and are extremely good at it.
+我第一次试图建立那个组织——那是 Mac 团队。它真的起作用了。我看到了一支由 50 人组成的团队做了其他公司数百或数千人无法做到的事情。因此，从那时起，我总是试图找到真正热爱自己所做之事并擅长于此的伟大人才。
+
+>> And that’s one of my mantras around Apple and Pixar: that recruiting is the most important thing that you do. Finding the right people—that’s half the battle.
+这是我对苹果和皮克斯的信条之一：招聘是你所做的最重要的事情。找到合适的人，你就成功了一半。
+
+
+招聘的时候会挑战面试的人。
+“The worst thing that someone can do in an interview is to agree with me.”
+
+Steve Jobs: You’d better have great people, or you won’t get your product to market as fast as possible. Or you might get a product to market really fast, but it will be really clunky and nobody will buy it.There are no shortcuts around quality, and quality starts with people.Maybe shortcuts exist, but I’m not smart enough to have ever found any.
+史蒂夫·乔布斯：你最好拥有优秀的人才，否则你无法尽快将产品推向市场。或者你可能会很快将产品推向市场，但它会非常笨重，没有人会买。没有关于质量的捷径，质量始于人才。也许存在捷径，但我不够聪明，从未发现过。
+
+I spend 20 percent of my time recruiting, even now. I spend a day a week helping people recruit. It’s one of the most important things you can do.
+我花了20%的时间来招聘，即使现在也是如此。我每周花一天时间帮助人们招聘。这是你能做的最重要的事情之一。
+
+>> SJ: That’s a very hard question. Ultimately there are two paths. If a candidate has been in the workplace for a while, you have to look at the results. There are people who look so good on paper and talk such a good story but have no results behind them. They can’t point to breakthroughs or successful products that they shipped and played an integral part in. Ultimately the results should lead you to the people. As a matter of fact, that’s how I find great people. I look at great results and I find out who was responsible for them.
+SJ: 这是个很难回答的问题。最终有两条路可走。如果一个候选人已经在工作了一段时间，你必须看看结果。有些人在纸面上看上去很好，讲了这么好的故事，但却没有结果。他们不能指出突破或成功的产品，他们在其中发挥了不可或缺的作用。最终的结果应该引导你到人。事实上，我就是这样找到优秀的人的。我看到伟大的成果，我会找出谁应该为此负责。
+
+>> Over time, my digging in during an interview gets more precise. For example, many times in an interview I will purposely upset someone: I’ll criticize their prior work. I’ll do my homework, find out what they worked on and say, “God, that really turned out to be a bomb. That really turned out to be a bozo product. Why did you work on that?” I shouldn’t say this in your book, but the worst thing that someone can do in an interview is to agree with me and knuckle under.
+随着时间的推移，我在面试中的研究变得更加精确了。例如，在面试中，很多时候我会故意让某人不高兴：我会批评他们之前的工作。我会做我的功课，找出他们的工作，并说，“天啊，那真的是个炸弹那真的变成了一个bozo的产品。。。。你为什么要做这个”我不应该在你的书里这么说，但面试中最糟糕的事情就是同意我的观点然后屈服。
+
+>> What I look for is for someone to come right back and say, “You’re dead wrong and here’s why.” I want to see what people are like under pressure. I want to see if they just fold or if they have firm conviction, belief, and pride in what they did. It’s also good every once in a while to really piss somebody off in an interview to see how they react because, if your company is a meritocracy of ideas, with passionate people, you have a company with a lot of arguments. If people can’t stand up and argue well under pressure, they may not do well in such an environment. ✂︎
+我要找的是有人回来说，“你完全错了，这就是原因。“我想看看人们在压力下是什么样子。我想看看他们是否只是折叠或如果他们有坚定的信念，信仰，并为他们所做的感到自豪。偶尔在面试中激怒某人，看看他们的反应也是很好的，因为，如果你的公司是一个精英思想的公司，有激情的人，你的公司有很多争论。如果人们不能在压力下很好地站起来辩论，他们可能在这样的环境中做得不好。✂︎
+
+
+try to find those really great people who really love what they do. ✂︎
+努力找到那些真正热爱他们所做的事情的真正伟大的人。✂︎
+
+
+
+>> And a really smart guy I met a long time ago who used to teach at Disney University—Walt Disney recruited him to run Disney University, actually—he told me about his point of view, which I’ve remembered to this day. He called it management by values. What that means is you find people that want the same things you want, and then just get the hell out of their way.
+很久以前，我遇到了一个非常聪明的人，他曾经在迪斯尼大学教书，实际上，沃尔特迪斯尼聘请他来管理迪斯尼大学，他告诉我他的观点，我至今还记得。他称之为价值观管理。这意味着你要找到那些和你有着同样想法的人，然后就别挡他们的路。
+
+
+>> That’s what management by values is. It’s finding people with passion that want to go to San Diego—who want to go to the same place you want to go to! Right? That’s the key.
+这才是价值观管理的意义所在。。。。它是找到有激情的人谁想去圣地亚哥-谁想去同一个地方你想去！对吧？这才是关键。
+
+
+9、管理主要就是找到 common vision
+Q: In terms of going for the best, you have a widely held reputation of being extremely charismatic—someone who is always able to draw out the best in other people. How have you been able to motivate your employees?
+问：在追求最佳方面，你被广泛认为是一个极具魅力的人——总是能够激发别人的最佳状态。你如何激励你的员工？
+SJ: Well, I think that—ultimately, it’s the work that motivates people. I sometimes wish it were me, but it’s not. It’s the work. My job is to make sure the work is as good as it should be and to get people to stretch beyond their best. But it’s ultimately the work that motivates people. That’s what binds them together.
+SJ: 嗯，我认为——最终，是工作激励了人们。我有时希望是我，但事实并非如此。是工作。我的工作是确保工作达到应有的水平，并让人们超越最佳状态。但最终是工作激励了人们。这就是将他们联系在一起的东西。
+
+Q: Yet in the case of the Macintosh, you got tremendous output from people. Regardless of the type of work, not everybody can elicit that type of commitment.
+问：但是，在Macintosh的情况下，你从人们那里获得了巨大的产出。无论工作类型如何，并不是每个人都能引发这种承诺。
+SJ: Well, I’m not sure I’d chalk that up to charisma. Part of the CEO’s job is to cajole and beg and plead and threaten at times—to do whatever is necessary to get people to see things in a bigger and more profound way than they have, and to do better work than they thought they could do.
+史蒂夫·乔布斯：嗯，我不确定这是魅力。CEO 的一部分工作是哄骗、恳求、恳求和威胁——在必要的时候做任何事情，让人们以比他们更大的、更深刻的方式看待事物，比他们想象的做得更好。
+When they do their best and you don’t think it’s enough, you tell them straight: “This isn’t good enough. I know you can do better. You need to do better. Now go do better.”
+当他们尽力而为，而你认为这还不够时，你直接告诉他们：“这还不够好。我知道你可以做得更好。你需要做得更好。现在去做得更好。”
+You must play those cards carefully. You must be right a lot of the time because you’re messing with people’s lives. But that’s part of the job. In the end, it’s the environment you create, the coworkers, and the work that binds. The Macintosh team, if you talk to most of them—a dozen years since we shipped the product—most will still say that working on the Mac was the most meaningful experience of their lives. If we’d never shipped a product they wouldn’t say that. If the product hadn’t been so good they wouldn’t say that. The Macintosh experience wasn’t just about going to camp with a bunch of fun people. It wasn’t just a motivational speaker. It was the product that everybody put their heart and soul into, and it was the product that expressed their deep appreciation, somehow, for the world to see.
+你必须小心地玩这些牌。你必须在很大程度上是正确的，因为你正在与人们的生活打交道。但这是工作的一部分。最终，是你创造的环境，你的同事和你的工作将你们联系在一起。Macintosh团队，如果你和其中大多数人交谈——我们推出产品已经 12 年了——大多数人仍然会说，在Mac上工作是他们生命中最有意义的经历。如果我们从未推出产品，他们就不会这么说。如果产品没有这么好，他们就不会这么说。Macintosh体验不仅仅是与一群有趣的人去露营。它不仅仅是一个激励演讲者。它是每个人都投入了心血，并表达了他们对世界的深刻感激之情的产品。
+So, in the end, it’s the work that binds. That’s why it’s so important to pick very important things to do because it’s very hard to get people motivated to make a breakfast cereal. It takes something that’s worth doing.
+所以，最终，是工作将我们联系在一起。这就是为什么选择做非常重要的事情如此重要，因为很难让人们有动力制作早餐麦片。这需要一些值得做的事情。
+
+
+
+
+10、做到极致，精益求精
+（和上一条是相关联的，因为当时做得很好，所以才值得回忆）
+I don’t think my taste in aesthetics is that much different than a lot of other people’s. The difference is that I just get to be really stubborn about making things as good as we all know they can be. That’s the only difference.
+我认为我的美学品味和别人有多大的差别。区别在于，我只是非常固执地坚持把事情做好，就像我们都知道的那样。这就是唯一的区别。
+
+But the real big thing is: if you’re going to make something, it doesn’t take any more energy—and rarely does it take more money—to make it really great. All it takes is a little more time. Not that much more. And a willingness to do so, a willingness to persevere until it’s really great.
+但真正的大事是：如果你要制作一些东西，它不需要更多的能量——很少需要更多的钱——来制作它真的很棒。它只需要更多的时间。不是太多。以及愿意这样做，愿意坚持下去，直到它真的很棒。
+
+
+11、市场营销是关于价值观，所以拍了 Think Different
+>> To me, marketing is about values. This is a very complicated world. It’s a very noisy world, and we’re not gonna get a chance to get people to remember much about us. No company is.
+对我来说，营销是关于价值的。这是个很复杂的世界。这是一个非常嘈杂的世界，我们不会有机会让人们记住很多关于我们的事情。没有一家公司是。
+
+
+公司最重要的是价值观，回来做的第一件事
+>> As a matter of fact, the focus is on the absence of the product.
+
+>> But the best example of all, and one of the greatest jobs of marketing that the universe has ever seen, is Nike. Re­member: Nike sells a commodity! They sell shoes! And yet when you think of Nike, you feel something different than a shoe company. In their ads, as you know, they don’t ever talk about the products. They don’t ever tell you about their air soles, and why they are better than Reebok’s air soles. What does Nike do in their advertising? They honor great athletes, and they honor great athletics. That’s who they are. That’s what they are about.
+但最好的例子，也是宇宙中有史以来最伟大的营销工作之一，是耐克。Re­member: 耐克卖的是商品！他们卖鞋子！然而，当你想到耐克时，你会觉得它与一家制鞋公司有所不同。在他们的广告中，你知道，他们从不谈论产品。他们永远不会告诉你他们的空气鞋底，以及为什么他们比锐步的空气鞋底更好。耐克的广告是怎么做的？他们表彰伟大的运动员，他们表彰伟大的体育运动。他们就是这样的人。这就是他们的目的。
+
+
+
+12、饱经磨难
+
+He didn’t say it to me directly; he said it to the press. You’ve probably had somebody punch you in the stomach and it knocks the wind out of you and you can’t breathe.
+
+Within six years of NeXT’s launch, the entire founding team, other than Steve, had resigned.
+在NeXT推出后的六年内，除了史蒂夫之外，整个创始团队都辞职了。
+
+“If you really look closely,” Steve liked to say, “most overnight successes took a long time.”
+“如果你仔细看，”史蒂夫喜欢说，“大多数一夜成名的故事都花了很长时间。”
+（乔布斯自己就是）
+
+>> People say you learn more from failures than you do from successes, and that’s probably true. And I’ve made more mistakes than most people I know. But getting older does that [helps you grow] too. You get married. You know, you have a family. And your perspective starts to change on things.
+人们说你从失败中学到的比从成功中学到的更多，这可能是真的。我犯的错误比我认识的大多数人都多。但是变老也会帮助你成长。你结婚。你有家人的。你对事物的看法开始改变。
+
+
+
+
+
+13、每次犯错都是自我提高的机会
+
+Character is built not in good times, but in bad times; not in a time of plenty, but in a time of adversity
+品格不是在好时候建立的，而是在坏时候建立的；不是在富足的时候建立的，而是在逆境的时候建立的。
+
+“Your aesthetics get better as you make mistakes.”
+“当你犯错时，你的美学会变得更好。”
+
+Well, things get more refined as you make mistakes. I’ve had a chance to make a lot of mistakes.
+
+
+“One of the things I always tried to coach myself on was not being afraid to fail.”
+
+
+Oh, of course. That was a very painful time, but you just march forward, and you try to learn from it. One of the things I always tried to coach myself on was not being afraid to fail. When you have something that doesn’t work out, a lot of times, people’s reaction is to get very protective about never wanting to fall on their face again. I think that’s a big mistake, because you never achieve what you want without falling on your face a few times in the process of getting there. I’ve tried to not be afraid to fail, and, matter of fact, I’ve failed quite a bit since leaving Apple.
+史蒂夫·乔布斯：当然。那是一个非常痛苦的时期，但你只是继续前进，并试图从中吸取教训。我总是试图教练自己的一件事就是不要害怕失败。当你有一些事情没有成功时，人们的反应往往是非常保护自己，永远不想再跌倒。我认为这是一个大错误，因为你永远无法实现自己的目标，而不在实现目标的过程中跌倒几次。我试图不要害怕失败，事实上，自离开苹果以来，我失败了很多。
+
+
+
+>> I was basically fired from Apple. And that was really hard. So I’m sure I learned a lot from that. [Audience laughs.] I did. I did learn a lot from that. And as a matter of fact, there would have been no Pixar if that hadn’t happened. Life’s funny in this way. Sometimes your greatest strengths are your greatest weaknesses. Sometimes your greatest ad­versities, you learn the most from. I don’t know.
+我基本上是被苹果解雇了这真的很难。所以我相信我从中学到了很多。【观众笑了】我做到了。我确实从中学到了很多东西。。。。事实上，如果没有这件事，就不会有皮克斯。生活就是这样有趣。有时候你最大的优点就是你最大的缺点。有时你最大的逆境，你从中学到的最多。我不知道。
+
+
+
+14、世界是可以理解的，世界很糟糕，可以改变世界的，要去改变世界，让世界变得更美好。
+
+that everything that makes up what we call life was made by people no smarter, no more capable, than we are; that our world is not fixed—and so we can change it for the better.
+构成我们所谓的生活的一切都是由比我们更愚蠢、更无能的人创造的；我们的世界不是固定的——所以我们可以更好地改变它。
+
+
+He had a workbench out in the garage where, when I was about five or six, he sectioned off a little piece of it and said, “Steve, this is your workbench now.” And he gave me some of his smaller tools and showed me how to use a hammer and saw and how to build things. It really was very good for me. He spent a lot of time with me, teaching me how to build things, take things apart, put things back together.
+他在车库里有一个工作台，大约在我五岁或六岁的时候，他把工作台的一小部分分给了我，说：“史蒂夫，这是你的工作台了。”他给了我一些较小的工具，并教我如何使用锤子和锯子，以及如何建造东西。这对我真的非常好。他花了很多时间陪我，教我如何建造东西，拆开东西，再把东西组装起来。
+
+
+I got to know this man, whose name was Larry Lang, and he taught me a lot of electronics. He was great. He used to build Heathkits. Heathkits were really great. Heathkits were these products that you would buy in kit form. You actually paid more money for them than if you just went and bought the finished product, if it was available. These Heathkits would come with these detailed manuals about how to put this thing together, and all the parts would be laid out in a certain way and color coded. You’d actually build this thing yourself.
+我认识了一个人，他叫拉里·朗，他教了我很多电子学知识。他很棒。他过去经常组装海特克套件。海特克套套件真的很棒。这些套件是以套件的形式出售的。如果你去买成品，你会花更多的钱。这些海特克套件会附有详细的说明书，告诉你如何将这个东西组装起来，所有的部件都会以某种方式排列和着色。你会自己组装这个东西。
+I would say that gave one several things. It gave one an understanding of what was inside a finished product and how it worked, because it would include a theory of operation. But maybe even more importantly, it gave one the sense that one could build the things that one saw around oneself in the universe. These things were not mysteries anymore. I mean, you looked at a television set, and you would think, “I haven’t built one of those—but I could. There’s one of those in the Heathkit catalog, and I’ve built two other Heathkits, so I could build a television set.” Things became much more clear that they were the results of human creation, not these magical things that just appeared in one’s environment that one had no knowledge of their interiors. It gave a tremendous degree of self-confidence that, through exploration and learning, one could understand seemingly very complex things in one’s environment. My childhood was very fortunate in that way. ✂︎
+我会说，这给了你一些东西。它让你了解了一个成品的内部和它是如何工作的，因为它会包括一个操作理论。但或许更重要的是，它给了你一种感觉，你可以建造自己周围宇宙中看到的东西。这些东西不再是神秘的了。我的意思是，你看到一台电视机，你会想，“我没有建造过一台——但我可以。在 Heathkit 的目录中有一台，我已经建造了两台 Heathkit，所以我可以建造一台电视机。”事情变得更加清楚，它们是人类创造的结果，而不是这些神奇的东西，它们只是出现在你的环境中，你不知道它们的内部。它给了你极大的自信，通过探索和学习，你可以理解你环境中看似非常复杂的东西。我的童年在这方面非常幸运。
+
+
+>> Life can be much broader once you discover one simple fact—and that is: everything around you that you call life was made up by people that were no smarter than you.
+一旦你发现了一个简单的事实，生活可以变得更加广阔，那就是：你周围的一切，你称之为生活的东西，都是由那些并不比你聪明的人编造出来的。
+And you can change it.
+你可以改变它。
+You can influence it.
+你可以影响它。
+You can build your own things that other people can use.
+你可以建立你自己的东西，其他人可以使用。
+And the minute you can understand that you can poke life, and if you push in, then something will pop out the other side; that you can change it, you can mold it—that’s maybe the most important thing: to shake off this erroneous notion that life is there, and you’re just going to live in it versus embrace it, change it, improve it, make your mark upon it.
+当你明白你可以戳戳生活，如果你推进去，一些东西会从另一边冒出来，你可以改变它，你可以塑造它。这也许是最重要的事情：摆脱这种错误的观念，即生活就在那里，你只是要生活在其中，而不是拥抱它，改变它，改善它，在它身上留下你的印记。
+I think that’s very important, and however you learn that, once you learn it, you’ll want to change life and make it better. Because it’s kind of messed up in a lot of ways.
+我认为这是非常重要的，无论你如何学习，一旦你学会了，你就会想要改变生活，让它变得更好。因为它在很多方面都是一团糟。
+Once you learn that, you’ll never be the same again.
+一旦你明白了这一点，你就再也不会像以前一样了。
+
+
+
+
+
+15、驱动力。紧迫感。生命是短暂的。要做成一些事情。
+
+别人避免思考死亡，他却把死亡当做最强大的动力。
+
+
+“我们或许只有机会做几件真正伟大的事情，并把它们做好。我们谁也不知道自己能活多长时间，我也不知道，但是我感觉必须趁着自己年轻，多取得一些成就。”
+
+nothing to lose，所以永不止步。
+
+Think of your life as a rainbow arcing across the horizon of this world. You appear, have a chance to blaze in the sky, then you disappear.
+把你的生活想象成横跨这个世界地平线的彩虹。你出现，有机会在天空中闪耀，然后你消失。
+
+[The] risk factor quotient goes down as you encounter the real world. Many [people] find what they believe to be safe harbors (lawyers and accountants), only to wake up ten or fifteen years later and discover the price they paid.
+随着你遇到现实世界，风险因素指数会下降。许多人发现他们认为安全的避风港（律师和会计师），但十年或十五年后醒来，才发现他们付出的代价。
+
+The two endpoints of everyone’s rainbow are birth and death. We all experience both completely alone. And yet, most people of your age have not thought about these events very much, much less even seen them in others. How many of you have seen the birth of another human? It is a miracle. And how many of you have witnessed the death of a human? It is a mystery beyond our comprehension. No human alive knows what happens to “us” upon or after our death. Some believe this, others that, but no one really knows at all. Again, most people of your age have not thought about these events very much, and it’s as if we shelter you from them, afraid that the thought of mortality will somehow wound you. For me it’s the opposite: to know my arc will fall makes me want to blaze while I am in the sky. Not for others, but for myself, for the trail I know I am leaving.
+每个人的彩虹的两端是出生和死亡。我们都完全独自经历这两个事件。然而，你们这个年龄的大多数人还没有想过这些事件，更不用说看到它们发生在别人身上了。你们中有多少人看到过另一个人的出生？这是一个奇迹。你们中有多少人目睹过一个人的死亡？这是一个超出我们理解的谜团。活着的人不知道我们死后会发生什么。有些人认为这是这样，有些人认为那是这样，但没有人真正知道。再次，你们这个年龄的大多数人没有想过这些事件，就好像我们保护你们免受这些事件的伤害，担心死亡的想法会伤害到你们。对我来说，情况恰恰相反：知道我的弧线会落下，使我想在天空中燃烧。不是为了别人，而是为了我自己，为了我知道我留下的轨迹。
+
+Now, as you live your arc across the sky, you want to have as few regrets as possible. Remember, regrets are different from mistakes. Mistakes are those things that you did and wish you could do over again. In some you were a fool (usually concerning women). In others you were scared. In others you hurt someone else. Some mistakes are deep, others not. But if your intent was pure, they are almost always enriching in some way. So mistakes are things that you did and wish you could do over again.
+现在，当你在天空中生活时，你希望尽可能少地留下遗憾。记住，遗憾与错误不同。错误是你做过的事情，希望你能重新做一遍。在某些情况下，你是一个傻瓜（通常是关于女人）。在其他情况下，你很害怕。在其他情况下，你会伤害别人。有些错误很深，有些错误不深。但是，如果你的意图是纯洁的，它们几乎总是以某种方式丰富。因此，错误是你做过的事情，希望你能重新做一遍。
+Regrets are most often things you didn’t do, and wish you did. I still regret not kissing Nancy Kinniman in high school. Who knows what might have happened? Maybe she regrets it too …
+后悔通常是指你没做某事，希望你做了。我仍然后悔高中时没有吻南希·金尼曼。谁知道会发生什么？也许她也后悔了……
+
+
+
+
+
+16、工作就是生活
+Your work was your life, in many cases.
+你的工作是你的生活，在很多情况下。
+
+
+I’ve never been able to think of my work and my life as different things. They’re the same thing. Where it used to be 99 percent of my life, it’s maybe 50 percent of my life now.
+我从来没有能够把我的工作和我的生活视为不同的事情。它们是同一件事情。曾经占我生活的99%，现在可能只占我生活的50%。
+
+
+Don’t be a career. The enemy of most dreams and intuitions, and one of the most dangerous and stifling concepts ever invented by humans, is the “Career.” A career is a concept for how one is supposed to progress through stages during the training for and practicing of your working life.
+不要成为职业。大多数梦想和直觉的敌人，也是人类发明的最危险和最令人窒息的概念之一，是“职业”。职业是一个概念，即一个人在培训和实践中工作生活的各个阶段中应该如何进步。
+
+There are some big problems here. First and foremost is the notion that your work is different and separate from the rest of your life. If you are passionate about your life and your work, this can’t be so. They will become more or less one. This is a much better way to live one’s life.
+这里有几个大问题。首先，你的工作和你的生活是不同的，是分开的。如果你对生活和工作充满热情，这不可能。他们会或多或少地成为一个。这是一个更好的生活方式。
+
+Make your avocation your vocation. Make what you love your work.
+让你的爱好成为你的职业，让你的爱好成为你的工作。
+
+
+
+17、put something back 回馈社会
+
+And the ability to put something back into the pool of hu­man experience is extremely neat. I think that everyone knows that in the next ten years we have the chance to really do that. And we [will] look back—and while we’re doing it, it’s pretty fun, too—we will look back and say, “God, we were a part of that!” ✂︎
+把一些东西放回人类经验的池塘中是非常整洁的。我认为每个人都知道，在未来的十年中，我们有机会真正做到这一点。当我们回头看时，它也很有趣，我们会回头说，“天啊，我们是其中的一部分！”
+
+
+>> I grow little of the food I eat, and of the little I do grow I did not breed or perfect the seeds.
+我种了一点我吃的食物，我确实种了一点，但我没有培育或完善种子。
+I do not make any of my own clothing.
+我不做我自己的衣服。
+I speak a language I did not invent or refine.
+我说的语言不是我发明或提炼的。
+I did not discover the mathematics I use.
+我并没有发现我所使用的数学。
+I am protected by freedoms and laws I did not conceive of or legislate, and do not enforce or adjudicate.
+我受到自由和法律的保护，这些自由和法律不是我构想或制定的，也不是我执行或裁决的。
+I am moved by music I did not create myself.
+我被不是我自己创造的音乐所感动。
+When I needed medical attention, I was helpless to help myself survive.
+当我需要医疗照顾时，我是无助的，帮助自己生存。
+I did not invent the transistor, the microprocessor, object oriented programming, or most of the technology I work with.
+我没有发明晶体管，微处理器，面向对象编程，或者我工作中使用的大多数技术。
+I love and admire my species, living and dead, and am totally dependent on them for my life and well being.
+我热爱和钦佩我的物种，活着的和死去的，我的生活和幸福完全依赖于他们。
+
+
+比如招聘，招聘每个人的时候都用这些方法。他说他招聘过几千个人，所以这些方法是被反复使用的。    
+
+其他的方法和理念都是这样。    
+
+他就是在管理中，在生活中，他一次又一次反复实践这些正确的理念，这些理念影响他的一个又一个决策，后来有了这么大的成就。    
+
+>> “It is always a team of people, and the chemistry between that team of people, that makes great results,” Steve once said. Under his leadership, the teams at Apple and Pixar transformed four very different industries: computing, telecommunications, music, and film. The engine driving these trans­formations was a remarkably consistent set of values that Steve held dear: Life is short; don’t waste it. Tell the truth. Technology should enhance human creativity. Process matters. Beauty matters. Details matter. The world we know is a human creation—and we can push it forward.
+史蒂夫曾经说过：“一个团队，以及团队成员之间的化学反应，才能创造出伟大的成果。”在他的领导下，苹果和皮克斯的团队改变了四个截然不同的行业：计算机、电信、音乐和电影。推动这些变革的引擎是史蒂夫所珍视的一套非常一致的价值观：生命短暂，不要浪费它。说实话。科技应该增强人类的创造力。。。。过程很重要。。。。美丽很重要。细节很重要。。。。我们所知的世界是人类创造的，我们可以推动它向前发展。
+
+>> SJ: There’s a lot of things that happened that I’m sure I could have done better when I was at Apple the first time, and a lot of things that happened after I left that I thought were wrong turns, but it doesn’t matter. It really doesn’t matter, and you kind of got to let go of that stuff, and we are where we are. So we tend to look forward.
+SJ: 发生了很多事情，我确信我第一次在苹果的时候可以做得更好，我离开之后发生的很多事情，我认为是错误的转折，但这并不重要。这真的不重要，你得放下那些东西，我们在哪里就是我们在哪里。所以我们倾向于向前看。
+
+>> And, you know, one of the things I did when I got back to Apple ten years ago was I gave the museum to Stanford, and all the papers and all the old machines, and kind of cleared out the cobwebs and said, “Let’s stop looking backwards here. It’s all about what happens tomorrow.” Because you can’t look back and say, “Well, gosh, you know, I wish I hadn’t have gotten fired, I wish I was there, I wish this, I wish that.” It doesn’t matter. And so let’s go invent tomorrow rather than worrying about what happened yesterday.
+你知道，十年前我回到苹果后做的一件事就是我把博物馆捐给了斯坦福，还有所有的文件和旧机器，算是清理了蜘蛛网，然后说，“我们别再回头看了。都是为了明天要发生的事” 因为你不能回头说“好吧，天哪，你知道，我希望我没有被解雇，我希望我在那里，我希望这个，我希望那个。”这不重要。所以，让我们去创造明天，而不是担心昨天发生的事情。
+
+
+
 
 
 ***   
