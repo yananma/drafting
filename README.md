@@ -986,7 +986,7 @@ Do the right thing，不要屈从于暂时的环境，环境会变化的，但�
 
 先找一个简单的方法，先创造价值，再深化。vim 是失败的，马丁书上的原话。        
 
-
+杨振宁谈从费米身上学到的方法：（先易后难）I remember his emphasizing that as a young man one should devote most of one's time to attacking simple practical problems rather than deep fundamental ones.     
 
 
 
