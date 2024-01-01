@@ -1673,6 +1673,8 @@ The best thing you can do is to be exceptionly good at something，比如医生�
 
 # 降低预期   
 
+查理芒格：获得幸福最好的方法就是降低预期。     
+
 巴菲特，找对象的方法。https://www.bilibili.com/video/BV1Vi4y1w7VM/      
 
 （还说过，最好的办法就是 deserve it）     
